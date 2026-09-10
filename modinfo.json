@@ -1,23 +1,24 @@
 {
 	"name": "School of EckyThump",
 	"description": "Bill Oddie memorial Ekky Thump Set\r\n\r\nThese are old assets, and I will be improving them soon.  Currently just hats and \"truncheons\".  Clearly a Mastery black belt and bracers is needed, and grandmaster eye covers.\r\n\r\nThere's 3 hats of escalating sizes, disciple, master and grand master.  There's two puddings, the basic learnt at disciple, and a stronger one learnt at master.  But are truncheons.  Base one about average.  The master truncheon is \"properly stupidly overpowered\".  The hats give escalating bonuses to knockout damage and health.\r\nThere's three feats, you can find them under \"Ecky\" in the search.  Providing access to the recipes.\r\nThere are no remote controlled puddings",
-	"changeNote": "",
+	"changeNote": "Devkit for 2.2.0",
 	"author": "",
 	"authorUrl": "",
 	"versionMajor": 1,
 	"versionMinor": 0,
-	"versionBuild": 202608030,
+	"versionBuild": 202609100,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "",
 	"steamTestLivePublishedFileId": "",
 	"steamWorkshopFileIds":
 	{
-		"mainClient": "3776705928"
+		"mainClient": "3776705928",
+		"publicBetaClient": "3795846989"
 	},
 	"steamVisibility": 0,
 	"folderName": "Ekky",
-	"devkitRevisionNumber": 1001,
+	"devkitRevisionNumber": 1002,
 	"devkitSnapshotId": 0,
-	"fileSize": 0,
-	"minimumVersion": "Enhanced"
+	"minimumVersion": "Enhanced",
+	"requestedHttpOrigins": []
 }
